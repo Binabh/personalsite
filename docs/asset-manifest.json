@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d702d3c1.chunk.css",
+    "main.js": "/static/js/main.f29d20cc.chunk.js",
+    "main.js.map": "/static/js/main.f29d20cc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9b126251.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9b126251.js.map",
+    "static/js/2.c956f2ce.chunk.js": "/static/js/2.c956f2ce.chunk.js",
+    "static/js/2.c956f2ce.chunk.js.map": "/static/js/2.c956f2ce.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.66e93c8aec285d7b285165c79aca8445.js": "/precache-manifest.66e93c8aec285d7b285165c79aca8445.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d702d3c1.chunk.css.map": "/static/css/main.d702d3c1.chunk.css.map",
+    "static/js/2.c956f2ce.chunk.js.LICENSE.txt": "/static/js/2.c956f2ce.chunk.js.LICENSE.txt",
+    "static/media/Tec_maps_of_nepal.png": "/static/media/Tec_maps_of_nepal.d7a05925.png",
+    "static/media/adobe-xd-1.svg": "/static/media/adobe-xd-1.fb9759c1.svg",
+    "static/media/coding_illustration.svg": "/static/media/coding_illustration.745526f7.svg",
+    "static/media/flutter.svg": "/static/media/flutter.c68a1876.svg",
+    "static/media/inkscape-logo.svg": "/static/media/inkscape-logo.1c880b53.svg",
+    "static/media/leafletjs-icon.svg": "/static/media/leafletjs-icon.2475a5ad.svg",
+    "static/media/openlayers.svg": "/static/media/openlayers.ab29e015.svg",
+    "static/media/python-5.svg": "/static/media/python-5.a9b7e681.svg",
+    "static/media/qgis-icon128.svg": "/static/media/qgis-icon128.e23ba8b1.svg",
+    "static/media/react.svg": "/static/media/react.899e1db6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b126251.js",
+    "static/js/2.c956f2ce.chunk.js",
+    "static/css/main.d702d3c1.chunk.css",
+    "static/js/main.f29d20cc.chunk.js"
+  ]
+}
